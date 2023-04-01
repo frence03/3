@@ -1,0 +1,6 @@
+{
+    "github.gitAuthentication": true,
+    "git.branchRandomName.enable": false,
+    "git.enabled": false,
+    "git.ignoreMissingGitWarning": false
+}
